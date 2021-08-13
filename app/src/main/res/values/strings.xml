@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JeanDroidPizza</string>
+    <string-array name="pizzas">
+        <item>Royale</item>
+        <item>4 Fromages</item>
+        <item>Napolitaine</item>
+        <item>Marguerita</item>
+        <item>Calzone</item>
+    </string-array>
+</resources>
